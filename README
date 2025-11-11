@@ -1,0 +1,89 @@
+<h1 align="center">🚗 Car Rental — MERN Stack App</h1>
+
+<p align="center">
+  A full-stack <b>Car Rental</b> application built using the <b>MERN Stack</b> — 
+  <i>MongoDB, Express, React, Node.js</i> 🌍
+</p>
+
+---
+
+## 🌟 Project Overview
+
+Welcome to **Car Rental**, a modern full-stack web app for renting and managing cars with ease.
+
+💎 **Features:**
+- 🚘 Browse and view available cars  
+- 🗓️ Create and manage bookings easily  
+- ⚙️ Admins can add, edit, or delete cars  
+- 🌐 Multi-language support (English & Arabic)  
+- 🔒 Secure authentication via Clerk  
+
+This README explains the **tech stack**, **folder structure**, and how to **set up and run the app locally**.
+
+---
+
+## 🧠 Tech Summary
+
+### 🎨 Frontend
+- Built with **React + Vite**
+- Styled using **Tailwind CSS**
+- Multi-language support with **i18next**
+- Authentication handled by **Clerk**
+- Located in the `frontend/` folder  
+  👉 Runs using **Vite Dev Server** for instant reloads ⚡
+
+### ⚙️ Backend
+- **Node.js + Express** for RESTful APIs and routing
+- **MongoDB + Mongoose** for data management
+- **Cloudinary** integration for image uploads ☁️
+- **Clerk Webhooks** for authentication events
+- Located in the `backend/` folder
+
+---
+
+## 🗂️ Project Structure
+
+```bash
+📦 car-rental/
+ ┣ 📁 backend/
+ ┃ ┣ 📜 server.js           # Main entry point
+ ┃ ┣ 📁 config/             # Database & Cloudinary setup
+ ┃ ┣ 📁 controllers/        # Business logic
+ ┃ ┣ 📁 middleware/         # Auth & error handlers
+ ┃ ┣ 📁 models/             # Mongoose models (User, Car, Booking)
+ ┃ ┗ 📁 routes/             # API routes
+
+ ┣ 📁 frontend/
+ ┃ ┣ 📁 src/
+ ┃ ┃ ┣ 📁 components/       # Reusable UI components
+ ┃ ┃ ┣ 📁 pages/            # Main app pages (Home, Cars, Admin, etc.)
+ ┃ ┃ ┣ 📁 locales/          # i18n translations (en.json, ar.json)
+ ┃ ┃ ┗ 📜 i18n.js           # i18next configuration
+ ┃ ┣ 📜 vite.config.js
+ ┃ ┗ 📜 tailwind.config.js
+
+ ┗ 📜 README.md
+# Clone the repository
+git clone https://github.com/your-username/car-rental.git
+
+# Go to project folder
+cd car-rental
+
+# Install dependencies
+cd backend && npm install
+cd ../frontend && npm install
+
+# Run backend
+npm run server
+
+# Run frontend
+npm run dev
+
+
+| 🌐 Layer | ⚙️ Technologies |
+|----------|----------------|
+| 🎨 Frontend | React, Vite, Tailwind CSS, i18next |
+| 🧠 Backend | Node.js, Express.js, Mongoose |
+| 🗄️ Database | MongoDB |
+| 🔐 Auth | Clerk |
+| ☁️ Cloud | Cloudinary |
