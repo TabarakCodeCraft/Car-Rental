@@ -1,0 +1,293 @@
+{
+  "home": "Home",
+  "listing": "Listing",
+  "blog": "Blog",
+  "myBookings": "My Bookings",
+  "contactt": "Contact",
+  "placeholder": "Search cars...",
+  "rentroo": "Rentroo",
+  "heroExplore": "Explore",
+  "heroPremiumVehicles": "premium vehicles",
+  "heroDestinations": "available in exciting destinations.",
+  "destination": "Destination",
+  "typeHere": "Type here",
+  "checkIn": "Check in",
+  "checkOut": "Check out",
+  "search": "Search",
+  "pickUp": "Pick Up",
+  "dropOff": "Drop Off",
+  "aboutTitle1": "Your Trusted Real Estate Partner",
+  "aboutTitle2": "Helping You Every Step of the Way",
+  "aboutDescription": "Find reliable car with transparent pricing, verified inspections, flexible pickup and delivery options, and 24/7 customer support for a smooth rental or buying experience.",
+  "quickServiceTitle": "Quick Service",
+  "quickServiceDesc": "Choose from economy to luxury models, regularly maintained and verified, giving you reliable performance and the perfect car for every trip.",
+  "wideSelectionTitle": "Wide Vehicle Selection",
+  "wideSelectionDesc": "Book in seconds with instant confirmations and flexible pickup options, so you get on the road fast without waiting or hassles.",
+  "support24Title": "24/7 Support",
+  "support24Desc": "Around the clock customer support via chat and phone, resolving issues quickly and helping with changes, extensions, or roadside assistance anytime you need.",
+  "transparentPricingTitle": "Transparent Pricing",
+  "transparentPricingDesc": "Upfront rates with no hidden fees, clear breakdowns for insurance and extras, so pricing stays predictable and easy to understand before booking.",
+  "testimonialTitle": "What People Say",
+  "testimonialTitlee": "Real Stories from Our Users",
+  "testimonialPara": "Discover what our users think about our service. Their feedback inspires us to keep improving and delivering the best experience possible.",
+  "testimonial1Text": "The service was excellent! Booking was easy and the car was spotless. I’ll definitely use this company again for my next trip.",
+  "testimonial1Name": "Hussein Ali",
+  "testimonial1Date": "22 Jan 2025",
+  "testimonial2Text": "Amazing experience! Customer support was very responsive and helpful. Everything went smoothly from start to finish.",
+  "testimonial2Name": "Sara Ahmed",
+  "testimonial2Date": "22 Jan 2025",
+  "testimonial3Text": "I was impressed with how fast and convenient the whole process was. Highly recommended for anyone looking for reliable service.",
+  "testimonial3Name": "Omar Khalid",
+  "testimonial3Date": "22 Jan 2025",
+  "footerDesc": "Find reliable cars with transparent pricing, verified inspections, flexible pickup and delivery options, and 24/7 customer support.",
+  "companyTitle": "COMPANY",
+  "bannerTitle": "Buy with confidence, rent without worry",
+  "bannerDesc": "Find your next ride or earn from your vehicle in minutes. We handle insurance, driver verification, and secure payments.",
+  "bannerBtn": "Explore cars",
+  "companyLinks": {
+    "about": "About",
+    "careers": "Careers",
+    "press": "Press",
+    "blog": "Blog",
+    "partners": "Partners"
+  },
+  "supportTitle": "SUPPORT",
+  "supportLinks": {
+    "helpCenter": "Help Center",
+    "safety": "Safety Information",
+    "cancel": "Cancellation Options",
+    "contact": "Contact Us",
+    "accessibility": "Accessibility"
+  },
+  "newsletterTitle": "STAY UPDATED",
+  "newsletterDesc": "Subscribe to our newsletter for inspiration and special offers.",
+  "newsletterPlaceholder": "Your email",
+  "newsletterButton": "Subscribe",
+  "footerBottom": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "sitemap": "Sitemap"
+  },
+  "common": {
+    "currency": "$",
+    "perDay": "/days",
+    "from": "from",
+    "listing": "listing"
+  },
+  "carDetails": {
+    "perDay": "Per Day",
+    "carDetailsTitle": "Car Details",
+    "featuresTitle": "Features",
+    "pickUp": "Pick Up",
+    "dropOff": "Drop Off",
+    "bookCar": "Book Car",
+    "checkDates": "Check Dates",
+    "forBuyingContact": "For Buying Contact",
+    "agency": "Agency",
+    "agencyOffice": "Agency Office",
+    "sendEmail": "Send Email",
+    "callNow": "Call Now"
+  },
+  "featuredCars": {
+    "title1": "Your Next Car Awaits",
+    "title2": "Start Driving With Ease",
+    "displaying": "Displaying",
+    "totalListings": "3k listing"
+  },
+  "carSpecs": {
+    "transmission": "Transmission",
+    "seats": "Seats",
+    "fuelType": "Fuel Type",
+    "odometer": "Odometer"
+  },
+  "transmissionTypes": {
+    "Manual": "Manual",
+    "Automatic": "Automatic",
+    "Dual-clutch": "Dual-clutch"
+  },
+  "fuelTypes": {
+    "Petrol": "Petrol",
+    "Diesel": "Diesel",
+    "Electric": "Electric",
+    "Hybrid": "Hybrid"
+  },
+  "bodyTypes": {
+    "Coupe": "Coupe",
+    "SUV": "SUV",
+    "Hatchback": "Hatchback",
+    "Sedan": "Sedan",
+    "Convertible": "Convertible",
+    "Van": "Van",
+    "Grand Tourer": "Grand Tourer"
+  },
+  "cities": {
+    "New York": "New York",
+    "Los Angeles": "Los Angeles",
+    "Toronto": "Toronto",
+    "Berlin": "Berlin",
+    "Abu Dhabi": "Abu Dhabi",
+    "London": "London",
+    "Monaco": "Monaco",
+    "Rome": "Rome",
+    "Edinburgh": "Edinburgh"
+  },
+  "countries": {
+    "USA": "USA",
+    "Canada": "Canada",
+    "Germany": "Germany",
+    "UAE": "UAE",
+    "UK": "UK",
+    "Monaco": "Monaco",
+    "Italy": "Italy"
+  },
+  "cars": {
+    "porsche911": {
+      "title": "Porsche 911 Carrera",
+      "description": "Two-door sport coupe with sharp handling, responsive turbocharged engine, and a driver focused cockpit. Suited for spirited drives and short trips with premium materials and modern connectivity."
+    },
+    "lamborghiniUrus": {
+      "title": "Lamborghini Urus",
+      "description": "Mid-size SUV with robust chassis, elevated ride height, and all-wheel capability. Practical interior, large cargo area, and modern driver aids for family trips and mixed road conditions."
+    },
+    "audiRS3": {
+      "title": "Audi RS3 Sportback",
+      "description": "Compact hatchback built for efficient city driving, easy parking, and low running costs. Agile steering and good fuel economy with practical cargo flexibility."
+    },
+    "mercedesS500": {
+      "title": "Mercedes-Benz S 500",
+      "description": "Four-door executive sedan focused on comfort and refinement. Smooth ride, spacious rear seating, advanced safety features, and premium cabin materials for long-distance comfort."
+    },
+    "porscheTaycan": {
+      "title": "Porsche Taycan Turbo S",
+      "description": "All-electric performance sedan offering instant torque, precise handling, and luxurious cabin comfort. Ideal for buyers seeking EV performance without sacrificing refinement."
+    },
+    "porsche718": {
+      "title": "Porsche 718 Boxster",
+      "description": "Convertible with a refined chassis and retractable top for open-air driving. Comfortable seating for four, responsive handling, and modern infotainment for weekend drives."
+    },
+    "mercedesSprinter": {
+      "title": "Mercedes-Benz Sprinter 3500",
+      "description": "Utility cargo van designed for trades and deliveries. Large load area, durable interior surfaces, practical access points, and reliable mechanicals for daily work."
+    },
+    "lamborghiniHuracan": {
+      "title": "Lamborghini Huracán EVO",
+      "description": "High-revving V10 supercar with razor-sharp handling, lightweight chassis, and premium sporty interior. Built for high-performance driving and track-capable bursts on demand."
+    },
+    "ferrariF8": {
+      "title": "Ferrari F8 Tributo",
+      "description": "Mid-engine V8 supercar delivering blistering acceleration and sublime handling. Driver-focused cockpit with premium materials and race-bred technology for an exhilarating experience."
+    },
+    "mclaren720s": {
+      "title": "McLaren 720S",
+      "description": "Lightweight carbon-fiber supercar with a twin-turbo V8, blistering acceleration, and razor-sharp handling. Designed for both road and occasional track use with driver-focused ergonomics."
+    },
+    "astonMartinDB11": {
+      "title": "Aston Martin DB11",
+      "description": "Grand tourer combining refined luxury with potent V8/V12 performance. Smooth long-distance cruising, handcrafted interior, and advanced stability for comfortable high-speed touring."
+    }
+  },
+  "features": {
+    "Rear Camera": "Rear Camera",
+    "Apple CarPlay": "Apple CarPlay",
+    "Keyless Entry": "Keyless Entry",
+    "Adaptive Cruise": "Adaptive Cruise",
+    "Heated Seats": "Heated Seats",
+    "Sunroof": "Sunroof",
+    "Parking Assist": "Parking Assist",
+    "Cruise Control": "Cruise Control"
+  },
+  "agency": {
+    "name": "Aurora Motors",
+    "email": "contact@auroramotors.com"
+  },
+  "bookingStatus": {
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "cancelled": "Cancelled",
+    "completed": "Completed"
+  },
+  "paymentMethods": {
+    "Stripe": "Stripe",
+    "Pay at Pick-up": "Pay at Pick-up"
+  },
+  "blogs": {
+    "0": {
+      "title": "Top 10 Cities to Rent a Car in 2025",
+      "category": "Travel Trends",
+      "description": "Find out the best cities where renting a car is affordable, convenient, and offers the best travel experience in 2025."
+    },
+    "1": {
+      "title": "How to Choose the Right Rental Car",
+      "category": "Rental Guide",
+      "description": "A step-by-step guide to selecting the perfect rental car based on budget, trip type, and personal preferences."
+    },
+    "2": {
+      "title": "Luxury vs Economy Cars: Which One to Rent?",
+      "category": "Car Comparisons",
+      "description": "Explore the benefits of renting luxury cars versus economy options and decide which suits your journey best."
+    },
+    "3": {
+      "title": "First-Time Car Rental Tips You Must Know",
+      "category": "Beginner Tips",
+      "description": "Essential tips for first-time renters to avoid hidden fees, choose the right insurance, and get the best deals."
+    },
+    "4": {
+      "title": "Maximizing Savings on Long-Term Car Rentals",
+      "category": "Money Saving",
+      "description": "Discover smart strategies to save money and get the best value when renting cars for longer durations."
+    },
+    "5": {
+      "title": "Self-Drive vs Chauffeur Cars: Which is Better?",
+      "category": "Travel Choices",
+      "description": "Understand the pros and cons of renting a self-drive car compared to hiring a chauffeur-driven service."
+    },
+    "6": {
+      "title": "How to Book a Rental Car for Road Trips",
+      "category": "Road Trip Guide",
+      "description": "Learn how to plan and book the right rental car to make your road trips safe, comfortable, and enjoyable."
+    },
+    "7": {
+      "title": "2025 Car Rental Industry Trends",
+      "category": "Market Trends",
+      "description": "An expert overview of the latest car rental market trends, from electric vehicles to flexible rental models."
+    },
+    "continueReading": "continue reading"
+  },
+  "contact": {
+    "title": "Let's Get In Touch.",
+    "subtitle": "Or just reach out manually to us at",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "emailAddress": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "message": "Message",
+    "messagePlaceholder": "Enter your message",
+    "submitButton": "Submit Form",
+    "submitSuccess": "Form submitted successfully!"
+  },
+  "sort": {
+    "relevant": "Relevant",
+    "lowToHigh": "Low to High",
+    "highToLow": "High to Low"
+  },
+  "bodyType": {
+    "coupe": "Coupe",
+    "suv": "SUV",
+    "hatchback": "Hatchback",
+    "sedan": "Sedan",
+    "convertible": "Convertible",
+    "van": "Van",
+    "grandTourer": "Grand Tourer"
+  },
+  "filters": {
+    "sortBy": "Sort By",
+    "carType": "Car Type",
+    "priceRange": "Price Range",
+    "noCarsFound": "No Cars Found for selected filters."
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next"
+  }
+}
