@@ -78,12 +78,3 @@ npm run server
 
 # Run frontend
 npm run dev
-
-
-| 🌐 Layer | ⚙️ Technologies |
-|----------|----------------|
-| 🎨 Frontend | React, Vite, Tailwind CSS, i18next |
-| 🧠 Backend | Node.js, Express.js, Mongoose |
-| 🗄️ Database | MongoDB |
-| 🔐 Auth | Clerk |
-| ☁️ Cloud | Cloudinary |
